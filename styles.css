@@ -35,3 +35,31 @@ body{
 .black {
 	background-color: black;
 }
+
+.right {
+	float: right;
+}
+#divider1{
+	height: 400px;
+	 width:  10px;
+}
+.mediumbox {
+	width: 100px;
+	height: 50px;
+	background-color: blue;
+}
+#divider2{
+	width: 100px;
+	height: 10px;
+background-color: red; 
+}
+#divider3{
+	width: 100px;
+	height: 10px;
+}
+.topbox {
+	width: 100px;
+	height: 100px;
+	background-color: green;
+}
+
